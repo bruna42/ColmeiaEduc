@@ -1,0 +1,31 @@
+h2{
+    color:orangered;
+}
+
+p{
+    color: orange;
+}
+
+header{
+    color: orangered;
+    border-bottom: 1px solid whitesmoke;
+}
+
+body{
+    background-color: #F6EC6A;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+}
+
+footer{
+    border-top: 1px solid whitesmoke;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-subtitulo{
+    font-style: italic;
+}
